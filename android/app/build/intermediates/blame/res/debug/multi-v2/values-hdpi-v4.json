@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/wasif/Documents/reactNative/Book/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/wasif/.gradle/caches/transforms-2/files-2.1/b3cfaa05bcdc8c6c5085c5c8e23ea430/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
